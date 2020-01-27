@@ -1,3 +1,6 @@
 bin/main
 mails
 guerrillad.conf.json
+.DS_Store
+mails
+mails.db
