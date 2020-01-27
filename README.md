@@ -4,7 +4,7 @@ MailbayPi-Backend
 Tiny SMTP server written in GoLang for `raspberrypi` , Based on [go-guerrilla](github.com/flashmob/go-guerrilla).
 
 #### Installation
-Required OS : `Linux raspberrypi 4.19.75-v7l+ #1270 SMP Tue Sep 24 18:51:41 BST 2019 armv7l`
+Required OS : `Linux raspberrypi 4.19.75-v7l+ armv7l`
 
 #### Download Binary File:
 
