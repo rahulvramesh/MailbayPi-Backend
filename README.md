@@ -13,11 +13,13 @@ Required OS : `Linux raspberrypi 4.19.75-v7l+ #1270 SMP Tue Sep 24 18:51:41 BST 
 
 #### Setup Config File:
 
-    wget https://raw.githubusercontent.com/rahulvramesh/MailbayPi-Backend/master/guerrillad.conf.json.sample
+    ```sh
+    wget https://raw.githubusercontent.com/rahulvramesh/MailbayPi-Backend/master/guerrillad.conf.json.sample 
+    ```
 
     mv guerrillad.conf.json.sample guerrillad.conf.json
 
 #### Run The File:
     ./mailbaypi
 
-`Makesure your incoming port is open`
+`make sure your incoming port is open`
