@@ -1,0 +1,18 @@
+[Unit]
+Description=mailbay temporary emails in pi
+Wants=network.target
+After=syslog.target network-online.target
+ConditionPathExists=/opt/apps/mails/main
+
+[Service]
+Type=simple
+WorkingDirectory=/opt/apps/mails
+ExecStart=/opt/apps/mails/main
+Restart=on-failure
+RestartSec=10
+KillMode=process
+
+[Install]
+WantedBy=multi-user.target
+
+#/lib/systemd/system/mailbay.service
