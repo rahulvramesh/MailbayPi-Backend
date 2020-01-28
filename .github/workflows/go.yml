@@ -13,6 +13,9 @@ jobs:
     - name: Setup Cross Compiler
       run: |
        sudo apt-get install gcc-arm-linux-gnueabihf libc6-armel-cross libc6-dev-armel-cross binutils-arm-linux-gnueabi libncurses5-dev
+       gcc
+       gcc-arm-linux-gnueabih
+       
 
     - name: Set up Go 1.13
       uses: actions/setup-go@v1
@@ -26,6 +29,7 @@ jobs:
     - name: Get dependencies
       run: |
         go mod download
+        
 
     - name: Build
       run: |
