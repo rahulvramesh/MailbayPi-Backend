@@ -9,6 +9,10 @@ jobs:
     name: Build
     runs-on: ubuntu-latest
     steps:
+    
+    - name: Setup Cross Compiler
+      run: |
+        apt-get install gcc-arm-linux-gnueabihf
 
     - name: Set up Go 1.13
       uses: actions/setup-go@v1
