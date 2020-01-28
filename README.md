@@ -17,7 +17,7 @@ Required OS : `Linux raspberrypi 4.19.75-v7l+ armv7l`
 
     wget https://raw.githubusercontent.com/rahulvramesh/MailbayPi-Backend/master/guerrillad.conf.json.sample 
 
-    mv guerrillad.conf.json.sample guerrillad.conf.json
+    mv configs/guerrillad.conf.json.sample guerrillad.conf.json
 
 #### Run The File:
     ./mailbaypi
