@@ -1,6 +1,8 @@
 MailbayPi-Backend
 =================
 
+![Go](https://github.com/rahulvramesh/MailbayPi-Backend/workflows/Go/badge.svg?branch=master)
+
 Tiny SMTP server written in GoLang for `raspberrypi` , Based on [go-guerrilla](github.com/flashmob/go-guerrilla).
 
 #### Installation
