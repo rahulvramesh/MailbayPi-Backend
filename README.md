@@ -29,6 +29,6 @@ Required OS : `Linux raspberrypi 4.19.75-v7l+ armv7l`
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/rahulvramesh"><img src="https://avatars1.githubusercontent.com/u/1309899?v=4" width="100px;" alt="4dd3r"/><br /><sub><b>rahulvramesh</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=4dd3r" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/sivsivsree"><img src="https://avatars0.githubusercontent.com/u/2310755?s=460&u=b92546165caed042f37f616f975628d1ce84a95e&v=4" width="100px;" alt="4dd3r"/><br /><sub><b>sivsivsree</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=sivsivsree" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/rahulvramesh"><img src="https://avatars0.githubusercontent.com/u/4546714?s=460&u=ac1b3c6f4343c0f783b9c6c59fdefb87616a7856&v=44" width="100px;" alt="4dd3r"/><br /><sub><b>rahulvramesh</b></sub></a><br /><a href="https://github.com/rahulvramesh/MailbayPi-Backend/commits?author=rahulvramesh" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/sivsivsree"><img src="https://avatars0.githubusercontent.com/u/2310755?s=460&u=b92546165caed042f37f616f975628d1ce84a95e&v=4" width="100px;" alt="4dd3r"/><br /><sub><b>sivsivsree</b></sub></a><br /><a href="https://github.com/rahulvramesh/MailbayPi-Backend/commits?author=sivsivsree" title="Code">💻</a></td>
     </tr></table>
